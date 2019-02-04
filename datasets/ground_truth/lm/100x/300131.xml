@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>300131.jpg</filename>
+	<path>E:\2018_Summer\Project\root\s3\VOC2011 (10X)\JPEGImages\300131.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>152</ymin>
+			<xmax>287</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

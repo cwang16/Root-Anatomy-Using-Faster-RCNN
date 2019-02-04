@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_root_image</folder>
+	<filename>300131.jpg</filename>
+	<path>C:\Users\cwang16\Desktop\test_root_image\300131.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>792</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>285</ymin>
+			<xmax>366</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
