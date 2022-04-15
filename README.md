@@ -1,5 +1,5 @@
 # DL-RootAnatomy: Root Anatomy Using Faster RCNN
-Web-based application available at: https://rootanatomy.org/ <br />
+Web-based application available at: https://rootanatomy.cs.ksu.edu/ <br />
 Mobile friendly, no installation required, no coding skills required <br />
 ##
 __DL-RootAnatomy__ detects root, stele and late metaxylm objects using Faster RCNN (Ren et al., 2015). The Python/TensforFlow implementation of Faster R-CNN (Chen and Gupta, 2017), available at https://github.com/endernewton/tf-faster-rcnn, was used to build two models for root anatomy. The first model detects root and stele objects, and the second one detects late metaxylem objects. The models are trained with around 300 images, including our own dataset and several images from RootAnalyzer (10 images) and RootCell (6 images).  The code where the last layer is modified according to the root objects detected is made available here to enable easy training or fine-tuning of models for other sets of root cross-section images. 
